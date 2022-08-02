@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+#Learning how to pull a repositary to local machine
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
