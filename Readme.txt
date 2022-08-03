@@ -1,4 +1,4 @@
-#Learning how to pull a repositary to local machine
+LEARNING HOW TO PULL A REPOSITORY TO LOCAL MACHINE
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
